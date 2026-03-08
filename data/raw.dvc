@@ -4,7 +4,3 @@ outs:
   nfiles: 23108
   hash: md5
   path: raw
-
-meta:
-  version: v0.1
-  data: 08/03/2026
